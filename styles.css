@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+container{
+	background-color:rgb(211,211,211);
+}
 nav{
 	background-color:#D3D3D3;
 	padding:10px ;
